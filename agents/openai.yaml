@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese PDF to English"
+  short_description: "Translate Chinese PDFs into polished English PDFs"
+  default_prompt: "Translate this Chinese PDF into a complete English PDF, preserve tables and images, and verify the rendered result."
